@@ -1,9 +1,5 @@
 # Simple-Calculator
 A Simple Calculator in Java is a console-based program that allows the user to perform basic arithmetic operations like addition, subtraction, multiplication, and division. The calculator will take two numbers as input and then ask the user to select an operation to perform on those numbers.
-Here's a README file for your Simple Calculator Java application that uses JFrame and JTextArea for the GUI:
-
-markdown
-Copy
 # Simple Calculator
 
 This is a simple graphical calculator built using Java Swing. It can perform basic arithmetic operations like addition, subtraction, multiplication, and division. The calculator provides a text-based display and a button interface.
@@ -29,21 +25,16 @@ This is a simple graphical calculator built using Java Swing. It can perform bas
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/yourusername/simple-calculator.git
-Navigate to the project directory:
 
-bash
-Copy
+2.Navigate to the project directory:
 cd simple-calculator
-Compile the project (if using the terminal):
 
-bash
-Copy
+3.Compile the project (if using the terminal):
 javac -d bin src/com/mycompany/simplecalculator/SimpleCalculator.java
-Run the project:
 
-bash
-Copy
+4.Run the project:
 java -cp bin com.mycompany.simplecalculator.SimpleCalculator
+
 Usage
 Start the application: Run the program using the provided instructions.
 
@@ -76,9 +67,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Feel free to modify the code and use it for educational purposes!
 
-vbnet
-Copy
-
 ### Breakdown of Sections:
 
 1. **Project Title and Description**: A brief overview of the project, explaining its purpose.
@@ -92,4 +80,6 @@ Copy
 
 ---
 
-You can customize the license section or add a screenshot if you'd like, but this structure should 
+You can customize the license section or add a screenshot if you'd like, but this structure should give a solid base for the README. Let me know if you need further changes!
+
+
