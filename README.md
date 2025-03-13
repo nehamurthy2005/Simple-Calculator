@@ -24,7 +24,7 @@ This is a simple graphical calculator built using Java Swing. It can perform bas
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-calculator.git
+   git clone https://github.com/nehamurthy2005/simple-calculator.git
 
 2.Navigate to the project directory:
 cd simple-calculator
